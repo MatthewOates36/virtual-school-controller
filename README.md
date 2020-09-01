@@ -5,9 +5,11 @@ A simple python statusbar app for Macos to open Webex/Zoom links at specified ti
 Built using rumps and py2app.
 
 ### Download ###
-Find and install the latest _Virtual School Controller.app_ from the releases tab.
+Find and install the latest _VirtualSchoolController.zip_ from the releases tab.
 
 ### Getting Started ###
+* Unzip the file and move _Virtual School Controller.app_ to desired location
+* Start app by double clicking on it - the app can also be added as a start item to your user so the app will run on startup
 * Make a .json file anywhere on your machine - text edit is a good app for this
 * Configure .json file using the _virtual-school.json_ file in this project as an example
 * Point the program to the absolute path of your file with the _Set config file path_ button in the statusbar menu
