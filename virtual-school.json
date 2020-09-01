@@ -1,0 +1,86 @@
+[
+  {
+    "name": "IB Physics",
+    "link": "https://svvsd.webex.com/meet/rice_john",
+    "times": [
+      {
+        "dotw": "Monday",
+        "time": "9:25"
+      },
+      {
+        "dotw": "Wednesday",
+        "time": "9:25"
+      }
+    ]
+  },
+  {
+    "name": "AP English Literature",
+    "link": "https://svvsd.webex.com/meet/pankonin_william",
+    "times": [
+      {
+        "dotw": "Monday",
+        "time": "11:00"
+      },
+      {
+        "dotw": "Wednesday",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "French 4",
+    "link": "https://svvsd.webex.com/meet/young_eve",
+    "times": [
+      {
+        "dotw": "Monday",
+        "time": "13:20"
+      },
+      {
+        "dotw": "Wednesday",
+        "time": "13:20"
+      }
+    ]
+  },
+  {
+    "name": "AP Economics",
+    "link": "https://svvsd.webex.com/meet/benson_kenneth",
+    "times": [
+      {
+        "dotw": "Tuesday",
+        "time": "9:25"
+      },
+      {
+        "dotw": "Thursday",
+        "time": "9:25"
+      }
+    ]
+  },
+  {
+    "name": "IB Chemistry",
+    "link": "https://svvsd.webex.com/meet/rasmussen_eric",
+    "times": [
+      {
+        "dotw": "Tuesday",
+        "time": "11:00"
+      },
+      {
+        "dotw": "Thursday",
+        "time": "11:00"
+      }
+    ]
+  },
+  {
+    "name": "AP Calculus B/C",
+    "link": "https://svvsd.webex.com/meet/schlagel_megan",
+    "times": [
+      {
+        "dotw": "Tuesday",
+        "time": "13:20"
+      },
+      {
+        "dotw": "Thursday",
+        "time": "13:20"
+      }
+    ]
+  }
+]
