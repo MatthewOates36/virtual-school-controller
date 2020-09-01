@@ -1,6 +1,6 @@
 # virtual-school-controller
 
-### Info ###
+### About ###
 A simple python statusbar app for Macos to open Webex/Zoom links at specified times. 
 Built using rumps and py2app.
 
